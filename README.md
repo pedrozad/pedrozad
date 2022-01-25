@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ## My name is Diego Pedroza
-I describe myself as a problem solver, creative, and an applied learner. I am a software developer with experience in web development and IT support :man_technologist:. Continuously, I am renewing my knowledge and reading about current topics. I am especially interested in the areas of Artificial Intelligence and Data Science, but I examine other fields as well. 
+I describe myself as a problem solver, creative, and an applied learner. I am a software developer with experience in web development and IT support :man_technologist:. Continuously, I am renewing my knowledge and reading about current topics. I am especially interested in the areas of Artificial Intelligence and Data Science, but I am open to other fields as well. 
 
 :computer: I am currently learning:
   * Low-code aplications
-  * TensorFlow
   * Latex
+  * Cybersecurity
   * and other stuff :chart_with_upwards_trend: 
 
 <!--
