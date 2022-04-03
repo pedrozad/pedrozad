@@ -5,7 +5,7 @@ I describe myself as a problem solver, creative, and an applied learner. I am a 
 
 :computer: I am currently learning:
   * Low-code aplications
-  * Latex
+  * Airflow and Kafka
   * Cybersecurity
   * and other stuff :chart_with_upwards_trend: 
 
